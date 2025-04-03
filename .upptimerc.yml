@@ -3,9 +3,9 @@ owner: Trade-EC # Your GitHub organization or username, where this repository li
 repo: XMART-UPPTIME # The name of this repository
 
 sites:
-  - name: XMART ORDERS SERVICE Health Readiness
+  - name: Orders Service Health Readiness
     url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/readiness
-  - name: XMART ORDERS SERVICE Health Liveness
+  - name: Orders Service Health Liveness
     url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/liveness
 
 status-website:
@@ -15,8 +15,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "XMart Uptime"
-  introMessage: Chack the availability of all Xmart services.
+  introTitle: "Xmart Uptime"
+  introMessage: Check the availability of all Xmart services.
   navbar:
     - title: Status
       href: /
