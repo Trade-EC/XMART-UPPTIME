@@ -1,9 +1,9 @@
 [
   {
-    "name": "Health Readiness",
+    "name": "XMART ORDERS SERVICE Health Readiness",
     "url": "https://api.artisn.desarrollo-redbrand.com/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
-    "slug": "health-readiness",
+    "slug": "xmart-orders-service-health-readiness",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -18,21 +18,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Health Liveness",
-    "url": "https://api.artisn.desarrollo-redbrand.com/actuator/health",
+    "name": "XMART ORDERS SERVICE Health Liveness",
+    "url": "https://api.artisn.desarrollo-redbrand.com/api/v4/private/orders/readiness",
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
-    "slug": "health-liveness",
+    "slug": "xmart-orders-service-health-liveness",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   }
 ]
