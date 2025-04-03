@@ -4,9 +4,9 @@ repo: XMART-UPPTIME # The name of this repository
 
 sites:
   - name: XMART ORDERS SERVICE Health Readiness
-    url: https://api.artisn.desarrollo-redbrand.com/actuator/health
+    url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/readiness
   - name: XMART ORDERS SERVICE Health Liveness
-    url: https://api.artisn.desarrollo-redbrand.com/api/v4/private/orders/liveness
+    url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/liveness
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +20,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Docs
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
