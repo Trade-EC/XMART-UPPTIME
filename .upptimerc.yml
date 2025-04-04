@@ -15,7 +15,7 @@ status-website:
   themeUrl: https://uptime.x-mart.io/custom-theme.css
   # baseUrl: /your-repo-name
   logoUrl: https://uptime.x-mart.io/logo.svg
-  name: Upptime
+  name: Xmart Uptime
   introTitle: "Xmart Uptime"
   introMessage: Check the availability of all Xmart services.
   navbar:
