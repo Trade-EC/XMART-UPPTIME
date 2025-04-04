@@ -7,6 +7,8 @@ sites:
     url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/readiness
   - name: Orders Service Health Liveness
     url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/liveness
+  - name: Api gateway Health Liveness
+    url: https://api.artisn.io/actuator/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
