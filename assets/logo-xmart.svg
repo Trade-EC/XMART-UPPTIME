@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg"
   width="784pt" height="300pt" viewBox="0 0 784 300"
   preserveAspectRatio="xMidYMid meet"
-  class="logo">
+  class="logo-xmart">
 
   <style>
-    .logo path {
+    .logo-xmart path {
       fill: currentColor;
     }
   </style>
