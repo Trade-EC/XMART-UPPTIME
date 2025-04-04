@@ -7,6 +7,11 @@
     .logo-xmart path {
       fill: currentColor;
     }
+    @media (prefers-color-scheme: dark) {
+     .logo-xmart {
+       color: #fff;
+     }
+    }
   </style>
 
   <g transform="translate(0,300) scale(0.1,-0.1)" stroke="none">
