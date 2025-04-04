@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.x-mart.io
-  # themeUrl: https://uptime.x-mart.io/custom-theme.css
+  themeUrl: https://uptime.x-mart.io/custom-theme.css
   # baseUrl: /your-repo-name
   logoUrl: https://uptime.x-mart.io/logo.svg
   name: Upptime
