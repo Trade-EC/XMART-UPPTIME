@@ -53,4 +53,7 @@
     --graph-opacity: 1;
     --graph-filter: none;
   }
+  .logo-xmart {
+    color: #fff!important;
+  }
 }
