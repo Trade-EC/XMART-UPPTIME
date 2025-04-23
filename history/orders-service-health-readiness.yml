@@ -1,7 +1,7 @@
 url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/readiness
-status: up
-code: 200
-responseTime: 1102
-lastUpdated: 2025-04-22T23:05:23.674Z
+status: down
+code: 503
+responseTime: 228
+lastUpdated: 2025-04-23T02:21:14.777Z
 startTime: 2025-04-03T22:22:13.195Z
 generator: Upptime <https://github.com/upptime/upptime>
