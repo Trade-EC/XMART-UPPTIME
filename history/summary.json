@@ -8,7 +8,7 @@
     "uptime": "44.39%",
     "uptimeDay": "45.84%",
     "uptimeWeek": "32.52%",
-    "uptimeMonth": "43.36%",
+    "uptimeMonth": "43.34%",
     "uptimeYear": "44.39%",
     "time": 745,
     "timeDay": 739,
@@ -16,7 +16,7 @@
     "timeMonth": 765,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-07-10": 701,
+      "2025-07-10": 710,
       "2025-07-09": 780,
       "2025-07-08": 804,
       "2025-07-07": 779,
@@ -117,7 +117,7 @@
     "uptime": "44.39%",
     "uptimeDay": "45.84%",
     "uptimeWeek": "32.52%",
-    "uptimeMonth": "43.36%",
+    "uptimeMonth": "43.34%",
     "uptimeYear": "44.39%",
     "time": 1224,
     "timeDay": 952,
@@ -125,7 +125,7 @@
     "timeMonth": 1169,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2025-07-10": 701,
+      "2025-07-10": 710,
       "2025-07-09": 780,
       "2025-07-08": 804,
       "2025-07-07": 779,
@@ -222,19 +222,19 @@
     "url": "https://api.artisn.io/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.io.ico",
     "slug": "api-gateway-health-liveness",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 10276,
-    "timeWeek": 2865,
-    "timeMonth": 980,
-    "timeYear": 536,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 533,
+    "timeDay": 6941,
+    "timeWeek": 2576,
+    "timeMonth": 958,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-07-10": 0
+      "2025-07-10": 8
     }
   }
 ]
