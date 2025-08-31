@@ -1,7 +1,7 @@
 url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/liveness
 status: down
 code: 503
-responseTime: 56
-lastUpdated: 2025-08-30T23:05:12.437Z
+responseTime: 11
+lastUpdated: 2025-08-31T23:05:28.819Z
 startTime: 2025-04-03T22:22:14.363Z
 generator: Upptime <https://github.com/upptime/upptime>
