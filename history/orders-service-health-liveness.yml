@@ -1,7 +1,7 @@
 url: https://api.artisn.desarrollo-redbrand.com/api/v4/health/orders/liveness
 status: up
 code: 200
-responseTime: 1404
-lastUpdated: 2025-09-11T23:05:37.872Z
+responseTime: 1449
+lastUpdated: 2025-09-12T23:05:09.894Z
 startTime: 2025-04-03T22:22:14.363Z
 generator: Upptime <https://github.com/upptime/upptime>
