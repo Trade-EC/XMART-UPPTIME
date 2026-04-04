@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "19.72%",
+    "uptime": "19.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.72%",
+    "uptimeYear": "19.66%",
     "time": 561,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 274,
-    "timeYear": 561,
+    "timeMonth": 286,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2026-04-03": 20,
+      "2026-04-04": 13,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -357,8 +358,7 @@
       "2025-04-08": 753,
       "2025-04-07": 1252,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1210
+      "2025-04-05": 1440
     }
   },
   {
@@ -367,18 +367,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "19.29%",
+    "uptime": "19.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.29%",
+    "uptimeYear": "19.23%",
     "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 41,
+    "timeMonth": 44,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2026-04-03": 20,
+      "2026-04-04": 13,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -720,8 +721,7 @@
       "2025-04-08": 753,
       "2025-04-07": 1252,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1210
+      "2025-04-05": 1440
     }
   },
   {
@@ -735,11 +735,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 78,
-    "timeWeek": 187,
-    "timeMonth": 243,
-    "timeYear": 422,
+    "time": 421,
+    "timeDay": 119,
+    "timeWeek": 166,
+    "timeMonth": 235,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2025-07-10": 18
     }
