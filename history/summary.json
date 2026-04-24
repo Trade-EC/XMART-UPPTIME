@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "18.69%",
+    "uptime": "18.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.88%",
+    "uptimeYear": "17.72%",
     "time": 561,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 548,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2026-04-23": 22,
+      "2026-04-24": 21,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -357,8 +358,7 @@
       "2025-04-29": 786,
       "2025-04-28": 58,
       "2025-04-26": 754,
-      "2025-04-25": 608,
-      "2025-04-24": 604
+      "2025-04-25": 608
     }
   },
   {
@@ -367,18 +367,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "18.28%",
+    "uptime": "18.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.44%",
+    "uptimeYear": "17.29%",
     "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 578,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2026-04-23": 22,
+      "2026-04-24": 21,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -720,8 +721,7 @@
       "2025-04-29": 786,
       "2025-04-28": 58,
       "2025-04-26": 754,
-      "2025-04-25": 608,
-      "2025-04-24": 605
+      "2025-04-25": 608
     }
   },
   {
@@ -735,10 +735,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 251,
-    "timeWeek": 187,
-    "timeMonth": 202,
+    "time": 410,
+    "timeDay": 267,
+    "timeWeek": 211,
+    "timeMonth": 200,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2025-07-10": 18
