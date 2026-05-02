@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "18.31%",
+    "uptime": "18.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "16.49%",
+    "uptimeYear": "16.36%",
     "time": 561,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 536,
+    "timeYear": 531,
     "dailyMinutesDown": {
-      "2026-05-01": 25,
+      "2026-05-02": 23,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -358,8 +359,7 @@
       "2025-05-07": 792,
       "2025-05-06": 92,
       "2025-05-05": 19,
-      "2025-05-03": 770,
-      "2025-05-02": 788
+      "2025-05-03": 770
     }
   },
   {
@@ -368,18 +368,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "17.91%",
+    "uptime": "17.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "16.06%",
+    "uptimeYear": "15.93%",
     "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 562,
+    "timeYear": 559,
     "dailyMinutesDown": {
-      "2026-05-01": 25,
+      "2026-05-02": 23,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -722,8 +723,7 @@
       "2025-05-07": 793,
       "2025-05-06": 92,
       "2025-05-05": 19,
-      "2025-05-03": 770,
-      "2025-05-02": 788
+      "2025-05-03": 770
     }
   },
   {
@@ -738,10 +738,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 200,
-    "timeWeek": 216,
-    "timeMonth": 208,
-    "timeYear": 411,
+    "timeDay": 301,
+    "timeWeek": 222,
+    "timeMonth": 210,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-07-10": 18
     }
