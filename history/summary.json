@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "18.04%",
+    "uptime": "17.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.31%",
+    "uptimeYear": "15.19%",
     "time": 561,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 526,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2026-05-07": 24,
+      "2026-05-08": 24,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -359,8 +360,7 @@
       "2025-05-12": 792,
       "2025-05-11": 1430,
       "2025-05-10": 1440,
-      "2025-05-09": 778,
-      "2025-05-08": 776
+      "2025-05-09": 778
     }
   },
   {
@@ -369,18 +369,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "17.64%",
+    "uptime": "17.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.88%",
+    "uptimeYear": "14.76%",
     "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 549,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2026-05-07": 24,
+      "2026-05-08": 24,
+      "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -724,8 +725,7 @@
       "2025-05-12": 792,
       "2025-05-11": 1430,
       "2025-05-10": 1440,
-      "2025-05-09": 778,
-      "2025-05-08": 776
+      "2025-05-09": 778
     }
   },
   {
@@ -739,10 +739,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 211,
-    "timeWeek": 231,
-    "timeMonth": 220,
+    "time": 404,
+    "timeDay": 93,
+    "timeWeek": 216,
+    "timeMonth": 218,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2025-07-10": 18
