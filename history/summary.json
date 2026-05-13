@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "17.81%",
+    "uptime": "17.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.93%",
+    "uptimeYear": "14.81%",
     "time": 561,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 519,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2026-05-12": 26,
+      "2026-05-13": 28,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -359,8 +360,7 @@
       "2025-05-17": 995,
       "2025-05-16": 529,
       "2025-05-15": 761,
-      "2025-05-14": 780,
-      "2025-05-13": 683
+      "2025-05-14": 780
     }
   },
   {
@@ -369,18 +369,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "17.42%",
+    "uptime": "17.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.50%",
-    "time": 748,
+    "uptimeYear": "14.38%",
+    "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 542,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-05-12": 26,
+      "2026-05-13": 28,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -724,8 +725,7 @@
       "2025-05-17": 995,
       "2025-05-16": 529,
       "2025-05-15": 762,
-      "2025-05-14": 780,
-      "2025-05-13": 683
+      "2025-05-14": 780
     }
   },
   {
@@ -739,10 +739,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 298,
-    "timeWeek": 203,
-    "timeMonth": 212,
+    "time": 401,
+    "timeDay": 94,
+    "timeWeek": 179,
+    "timeMonth": 205,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2025-07-10": 18
