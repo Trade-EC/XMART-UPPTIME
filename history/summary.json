@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "17.64%",
+    "uptime": "17.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.41%",
-    "time": 560,
+    "uptimeYear": "14.24%",
+    "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 511,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2026-05-16": 24,
+      "2026-05-17": 26,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -359,8 +360,7 @@
       "2025-05-21": 777,
       "2025-05-20": 797,
       "2025-05-19": 279,
-      "2025-05-18": 1323,
-      "2025-05-17": 995
+      "2025-05-18": 1323
     }
   },
   {
@@ -369,18 +369,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "17.25%",
+    "uptime": "17.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.98%",
-    "time": 748,
+    "uptimeYear": "13.81%",
+    "time": 749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 530,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2026-05-16": 24,
+      "2026-05-17": 26,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -724,8 +725,7 @@
       "2025-05-21": 777,
       "2025-05-20": 797,
       "2025-05-19": 279,
-      "2025-05-18": 1323,
-      "2025-05-17": 995
+      "2025-05-18": 1323
     }
   },
   {
@@ -740,9 +740,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 264,
-    "timeWeek": 220,
-    "timeMonth": 209,
+    "timeDay": 246,
+    "timeWeek": 218,
+    "timeMonth": 214,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2025-07-10": 18
