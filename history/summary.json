@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "17.59%",
+    "uptime": "17.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "14.24%",
-    "time": 559,
+    "uptimeYear": "14.15%",
+    "time": 560,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 509,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2026-05-17": 26,
+      "2026-05-18": 27,
+      "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
@@ -359,8 +360,7 @@
       "2025-05-22": 779,
       "2025-05-21": 777,
       "2025-05-20": 797,
-      "2025-05-19": 279,
-      "2025-05-18": 1323
+      "2025-05-19": 279
     }
   },
   {
@@ -369,18 +369,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "17.21%",
+    "uptime": "17.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.81%",
-    "time": 749,
+    "uptimeYear": "13.72%",
+    "time": 751,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 529,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2026-05-17": 26,
+      "2026-05-18": 27,
+      "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
@@ -724,8 +725,7 @@
       "2025-05-22": 779,
       "2025-05-21": 777,
       "2025-05-20": 797,
-      "2025-05-19": 279,
-      "2025-05-18": 1323
+      "2025-05-19": 279
     }
   },
   {
@@ -739,9 +739,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 246,
-    "timeWeek": 218,
+    "time": 399,
+    "timeDay": 274,
+    "timeWeek": 235,
     "timeMonth": 214,
     "timeYear": 407,
     "dailyMinutesDown": {
