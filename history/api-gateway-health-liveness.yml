@@ -1,7 +1,7 @@
 url: https://api.artisn.io/actuator/health
 status: up
 code: 200
-responseTime: 243
-lastUpdated: 2026-05-26T23:29:11.356Z
+responseTime: 267
+lastUpdated: 2026-05-27T23:31:32.986Z
 startTime: 2025-04-04T23:04:01.648Z
 generator: Upptime <https://github.com/upptime/upptime>
