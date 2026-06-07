@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "16.73%",
+    "uptime": "16.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -102,7 +102,7 @@
       "2025-09-15": 776,
       "2025-09-14": 1440,
       "2025-09-13": 1248,
-      "2026-06-07": 31,
+      "2026-06-07": 1193,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -372,7 +372,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "16.37%",
+    "uptime": "16.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -470,7 +470,7 @@
       "2025-09-15": 777,
       "2025-09-14": 1440,
       "2025-09-13": 1248,
-      "2026-06-07": 32,
+      "2026-06-07": 1193,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -739,9 +739,9 @@
     "url": "https://api.artisn.io/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.io.ico",
     "slug": "api-gateway-health-liveness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -751,7 +751,8 @@
     "timeMonth": 214,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-07-10": 18
+      "2025-07-10": 18,
+      "2026-06-07": 0
     }
   }
 ]
