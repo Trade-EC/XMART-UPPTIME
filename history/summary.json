@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-readiness",
     "status": "down",
-    "uptime": "13.03%",
+    "uptime": "13.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 249,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2026-10-07": 12,
+      "2026-10-08": 12,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -379,8 +380,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.artisn.desarrollo-redbrand.com.ico",
     "slug": "orders-service-health-liveness",
     "status": "down",
-    "uptime": "12.74%",
+    "uptime": "12.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 337,
+    "time": 334,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 35,
+    "timeYear": 34,
     "dailyMinutesDown": {
-      "2026-10-07": 12,
+      "2026-10-08": 12,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -763,8 +764,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 358,
-    "timeDay": 241,
-    "timeWeek": 226,
-    "timeMonth": 257,
-    "timeYear": 259,
+    "timeDay": 72,
+    "timeWeek": 230,
+    "timeMonth": 251,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2026-06-07": 28,
       "2026-07-25": 19,
