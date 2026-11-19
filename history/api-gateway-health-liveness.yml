@@ -1,7 +1,7 @@
 url: https://api.artisn.io/actuator/health
 status: down
 code: 403
-responseTime: 176
-lastUpdated: 2026-11-19T03:27:46.933Z
+responseTime: 225
+lastUpdated: 2026-11-19T23:07:38.152Z
 startTime: 2025-04-04T23:04:01.648Z
 generator: Upptime <https://github.com/upptime/upptime>
